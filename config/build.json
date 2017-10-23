@@ -1,0 +1,7 @@
+{
+  "staticRoot" : "static",
+  "staticUrlPrefix" : "",
+  "tplRoot" : "templates",
+  "port" : 8385,
+  "output" : "../../output"
+}
